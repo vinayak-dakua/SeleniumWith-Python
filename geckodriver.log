@@ -1,0 +1,29 @@
+Invalid port. Exiting...
+Invalid port. Exiting...
+1656077363650	geckodriver	INFO	Listening on 127.0.0.1:63708
+1656077366737	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinay\\AppData\\Local\\Temp\\rust_mozprofileOziKCC"
+1656077367866	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinay\\AppData\\Local\\Temp\\rust_mozprofileOziKCC\\search.json.mozlz4", (void 0)))
+1656077370561	Marionette	INFO	Listening on port 63717
+1656077370970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1656077373715	Marionette	INFO	Stopped listening on port 63717
+1656077376536	geckodriver	INFO	Listening on 127.0.0.1:63753
+1656077379620	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinay\\AppData\\Local\\Temp\\rust_mozprofileXfwylH"
+1656077380057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinay\\AppData\\Local\\Temp\\rust_mozprofileXfwylH\\search.json.mozlz4", (void 0)))
+1656077381917	Marionette	INFO	Listening on port 63762
+1656077382335	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656077387130	Marionette	INFO	Stopped listening on port 63762
+1656077556560	geckodriver	INFO	Listening on 127.0.0.1:63881
+1656077559625	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\vinay\\AppData\\Local\\Temp\\rust_mozprofiley0ZI5w"
+1656077560018	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\vinay\\AppData\\Local\\Temp\\rust_mozprofileaNBR4W\\search.json.mozlz4", (void 0)))
+1656077562872	Marionette	INFO	Listening on port 63897
+1656077563414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://admin-demo.nopcommerce.com"
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 136: TypeError: gRecipeManager is null
+1656077577350	Marionette	INFO	Stopped listening on port 63897
